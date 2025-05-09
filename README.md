@@ -3,9 +3,9 @@
 ### Data Engenieering
 > Gússem Yahia-Cheikh, María Colomer and Sara Díez <br>
 
-1.	Introduction & Objectives
-2.	Data Loading & Initial Overview
-3.	Merging Geographic Coordinates
+1.	Introduction & Objectives (FET)
+2.	Data Loading & Initial Overview (FET)
+3.	Merging Geographic Coordinates (FET)
 4.	Geographic Visualization
 5.	Exploratory Data Analysis (EDA)
 6.	Predicting Missing Values
