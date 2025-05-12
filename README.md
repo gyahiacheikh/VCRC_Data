@@ -3,6 +3,8 @@
 ### Data Engenieering
 > Gússem Yahia-Cheikh, María Colomer and Sara Díez <br>
 
+[LATEX FILE](https://www.overleaf.com/3379731813bvstqfnpcsvq#615675)
+
 **NOTE**
 Cuando entreís a los notebooks, porfavor de la parte inicial solo ejecutad las cells que sea cargar los datasets, para evitar que no ejecuteis las que generan nuevas y se nos corrumpan y/o borren los archivos `.csv` mersi 🫶
 
