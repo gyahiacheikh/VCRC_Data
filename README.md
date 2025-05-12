@@ -6,9 +6,13 @@
 **NOTE**
 Cuando entreís a los notebooks, porfavor de la parte inicial solo ejecutad las cells que sea cargar los datasets, para evitar que no ejecuteis las que generan nuevas y se nos corrumpan y/o borren los archivos `.csv` mersi 🫶
 
-Diferencias de datasets:
-`VCC_updated.csv`: la que creamos al principio con las columnas que hay en la introduccion del report
-`city_coords.csv`: Dataset con TODOS los nombres de `geonames` y sus coordenadas correspondientes
+Diferencias de datasets: <br>
+`VCC_updated.csv`: la que creamos al principio con las columnas que hay en la introduccion del report <br>
+
+
+`city_coords.csv`: Dataset con TODOS los nombres de `geonames` y sus coordenadas correspondientes <br>
+
+
 `VCC_with_coords.csv: Dataset que fusiona los dos anteriores, lo unico que las cordenadas se repiten por cada ciudad repetida, son las colummnas `lat` y `lon` estan unidas al final junto a `rate` (creo).
 
 
