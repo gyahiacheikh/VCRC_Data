@@ -13,7 +13,7 @@ Diferencias de datasets: <br>
 `city_coords.csv`: Dataset con TODOS los nombres de `geonames` y sus coordenadas correspondientes <br>
 
 
-`VCC_with_coords.csv: Dataset que fusiona los dos anteriores, lo unico que las cordenadas se repiten por cada ciudad repetida, son las colummnas `lat` y `lon` estan unidas al final junto a `rate` (creo).
+`VCC_with_coords.csv` : Dataset que fusiona los dos anteriores, lo unico que las cordenadas se repiten por cada ciudad repetida, son las colummnas `lat` y `lon` estan unidas al final junto a `rate` (creo).
 
 
 **TO DO LIST**
