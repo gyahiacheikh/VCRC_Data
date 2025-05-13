@@ -3,7 +3,7 @@
 ### Data Engenieering
 > Gússem Yahia-Cheikh, María Colomer and Sara Díez <br>
 
-[LATEX FILE](https://www.overleaf.com/3379731813bvstqfnpcsvq#615675)
+[LATEX FILE](https://www.overleaf.com/3379731813bvstqfnpcsvq#615675) <br>
 [PRESENTATION CANVA](https://www.canva.com/design/DAGnVT4YOQI/R_ndtaM5Iwc-tZ3Q6ftl-A/edit?utm_content=DAGnVT4YOQI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 **NOTE**
