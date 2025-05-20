@@ -4,7 +4,9 @@
 > Gússem Yahia-Cheikh, María Colomer and Sara Díez <br>
 
 [LATEX FILE](https://www.overleaf.com/3379731813bvstqfnpcsvq#615675) <br>
-[PRESENTATION CANVA](https://www.canva.com/design/DAGnoskaacs/m3p5LVrvriG6RHH-s5a_rw/edit?utm_content=DAGnoskaacs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[PRESENTATION CANVA](
+    https://www.canva.com/design/DAGnoskaacs/m3p5LVrvriG6RHH-s5a_rw/edit?utm_content=DAGnoskaacs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+)
 
 **NOTE**
 Cuando entreís a los notebooks, porfavor de la parte inicial solo ejecutad las cells que sea cargar los datasets, para evitar que no ejecuteis las que generan nuevas y se nos corrumpan y/o borren los archivos `.csv` mersi 🫶
