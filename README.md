@@ -3,32 +3,7 @@
 ### Data Engenieering
 > Gússem Yahia-Cheikh, María Colomer and Sara Díez <br>
 
-[LATEX FILE](https://www.overleaf.com/3379731813bvstqfnpcsvq#615675) <br>
-[PRESENTATION CANVA](
-    https://www.canva.com/design/DAGnoskaacs/m3p5LVrvriG6RHH-s5a_rw/edit?utm_content=DAGnoskaacs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-)
+[Report File (LATEX editor)](https://www.overleaf.com/3379731813bvstqfnpcsvq#615675) <br>
+[Project presentation (slides)](https://www.canva.com/design/DAGnoskaacs/m3p5LVrvriG6RHH-s5a_rw/edit?utm_content=DAGnoskaacs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-**NOTE**
-Cuando entreís a los notebooks, porfavor de la parte inicial solo ejecutad las cells que sea cargar los datasets, para evitar que no ejecuteis las que generan nuevas y se nos corrumpan y/o borren los archivos `.csv` mersi 🫶
-
-Diferencias de datasets: <br>
-`VCC_updated.csv`: la que creamos al principio con las columnas que hay en la introduccion del report <br>
-
-
-`city_coords.csv`: Dataset con TODOS los nombres de `geonames` y sus coordenadas correspondientes <br>
-
-
-`VCC_with_coords.csv` : Dataset que fusiona los dos anteriores, lo unico que las cordenadas se repiten por cada ciudad repetida, son las colummnas `lat` y `lon` estan unidas al final junto a `rate` (creo).
-
-
-**TO DO LIST**
-1.	Introduction & Objectives ✅
-2.	Data Loading & Initial Overview ✅
-3.	Merging Geographic Coordinates ✅
-4.	Geographic Visualization ✅
-5.	Exploratory Data Analysis (EDA)
-6.	Predicting Missing Values
-7.	Modeling Crime Rates
-8.	Summary of Findings
-9.	Conclusion & Future Work
-10.	Appendix (Optional)
+This project aims to analyze violent crime data in California from 2000 to 2013. Through exploratory and predictive approaches, it examines the relationships between crime rates, population, and GDP, including geographic visualizations and a recommender system that identifies counties with similar profiles. The analysis combines statistical techniques, machine learning, and data visualization to extract meaningful insights and support informed decision-making.
