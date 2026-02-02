@@ -3,7 +3,7 @@
 ### Data Engenieering (1st Year)
 > Gússem Yahia-Cheikh, María Colomer and Sara Díez <br>
 
-[Report File (LATEX editor)](https://www.overleaf.com/3379731813bvstqfnpcsvq#615675) <br>
+[Project Report (PDF)](Docs/Report.pdf) <br>
 [Project presentation (slides)](https://www.canva.com/design/DAGnoskaacs/m3p5LVrvriG6RHH-s5a_rw/edit?utm_content=DAGnoskaacs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 This project focuses on the comprehensive analysis of violent crime trends in the state of California over the period 2000–2013, combining exploratory data analysis, statistical modeling, machine learning techniques, and geographic visualization. The primary objective is to understand how violent crime rates evolve over time and how they relate to key socio-economic and demographic factors such as population size and economic output (GDP), while also providing tools to compare counties with similar crime profiles.
